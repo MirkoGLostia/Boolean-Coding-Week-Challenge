@@ -1,0 +1,63 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-image: url(img/background.jpg);
+    background-size: cover;
+ }
+ 
+ .box {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 100px;
+    margin:auto;
+    width: 50%;
+    height: 600px;
+    border-radius: 20px;
+    margin-top: 50px;
+ }
+ 
+ .logo {
+    display: block;
+    width: 250px;
+    margin: auto;
+ }
+ 
+ .title {
+    color: rgb(0, 201, 0);
+    text-align: center;
+ }
+ 
+ .banner {
+    background-color:rgb(0, 201, 0);
+    padding: 10px;
+    height: 25px;
+    text-align: center;
+ }
+ 
+ .monopattino h2 {
+   display: inline;
+}
+ 
+ .monopattino {
+    color: rgb(255, 255, 255);
+    margin: 25px 0 25px 0;
+ }
+ 
+ .bat1 {
+    background-color:rgb(245, 180, 83);
+    border-radius: 5px;
+    width: 320px;
+    height: 30px;
+ }
+ 
+ .bat2 {
+    background-color:rgb(30, 195, 30);
+    border-radius: 5px;
+    width: 580px;
+    height: 30px;
+ }
+ 
+ .bat3 {
+    background-color:rgb(190, 65, 65);
+    border-radius: 5px;
+    width: 130px;
+    height: 30px;
+ }
